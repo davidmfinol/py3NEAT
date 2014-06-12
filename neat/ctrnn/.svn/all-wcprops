@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/353/trunk/neat/ctrnn
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/308/trunk/neat/ctrnn/__init__.py
+END
+ctrnn_pure.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/352/trunk/neat/ctrnn/ctrnn_pure.py
+END
+ctrnn_cpp.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/352/trunk/neat/ctrnn/ctrnn_cpp.py
+END

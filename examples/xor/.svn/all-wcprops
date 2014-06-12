@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/356/trunk/examples/xor
+END
+xor2_config
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/349/trunk/examples/xor/xor2_config
+END
+xor2.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/356/trunk/examples/xor/xor2.py
+END
+xor2-spiking.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/356/trunk/examples/xor/xor2-spiking.py
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/341/trunk/examples/xor/run.py
+END
+xor2_parallel.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/356/trunk/examples/xor/xor2_parallel.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/349/trunk/examples/pole_balancing/double_pole
+END
+cart_pole.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/349/trunk/examples/pole_balancing/double_pole/cart_pole.py
+END
+test_double_pole.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/340/trunk/examples/pole_balancing/double_pole/test_double_pole.py
+END
+run_cartpole.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/349/trunk/examples/pole_balancing/double_pole/run_cartpole.py
+END
+dpole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/340/trunk/examples/pole_balancing/double_pole/dpole.cpp
+END
+cpExp_config
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/349/trunk/examples/pole_balancing/double_pole/cpExp_config
+END
+cpExp.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/349/trunk/examples/pole_balancing/double_pole/cpExp.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/340/trunk/examples/pole_balancing/double_pole/setup.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/340/trunk/examples/pole_balancing/double_pole/README
+END

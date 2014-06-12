@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/327/trunk/examples/pole_balancing/single_pole
+END
+test_single_pole.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/307/trunk/examples/pole_balancing/single_pole/test_single_pole.py
+END
+single_pole.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/307/trunk/examples/pole_balancing/single_pole/single_pole.py
+END
+spole_config
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/327/trunk/examples/pole_balancing/single_pole/spole_config
+END
